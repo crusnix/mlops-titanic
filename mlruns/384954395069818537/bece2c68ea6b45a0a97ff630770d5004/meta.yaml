@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/diar/mlops-titanic/mlruns/384954395069818537/bece2c68ea6b45a0a97ff630770d5004/artifacts
+end_time: 1743462075404
+entry_point_name: ''
+experiment_id: '384954395069818537'
+lifecycle_stage: active
+run_id: bece2c68ea6b45a0a97ff630770d5004
+run_name: persistent-sheep-656
+run_uuid: bece2c68ea6b45a0a97ff630770d5004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743462072232
+status: 3
+tags: []
+user_id: diar

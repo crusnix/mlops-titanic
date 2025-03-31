@@ -1,0 +1,25 @@
+name: Train Titanic Model
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.8"
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Train Model
+        run: python src/train.py
+
