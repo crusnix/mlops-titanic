@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/diar/mlops-titanic/mlruns/704751925005901046/fe436de663364f9799797229a48052a4/artifacts
+end_time: 1743492700549
+entry_point_name: ''
+experiment_id: '704751925005901046'
+lifecycle_stage: active
+run_id: fe436de663364f9799797229a48052a4
+run_name: Survival_Model_Update
+run_uuid: fe436de663364f9799797229a48052a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743492698691
+status: 3
+tags: []
+user_id: diar

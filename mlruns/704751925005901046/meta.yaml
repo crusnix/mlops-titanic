@@ -1,0 +1,6 @@
+artifact_location: file:///Users/diar/mlops-titanic/mlruns/704751925005901046
+creation_time: 1743492697000
+experiment_id: '704751925005901046'
+last_update_time: 1743492697000
+lifecycle_stage: active
+name: Titanic_Gender

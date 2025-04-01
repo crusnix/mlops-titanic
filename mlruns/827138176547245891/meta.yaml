@@ -1,0 +1,6 @@
+artifact_location: file:///Users/diar/mlops-titanic/mlruns/827138176547245891
+creation_time: 1743492694326
+experiment_id: '827138176547245891'
+last_update_time: 1743492694326
+lifecycle_stage: active
+name: Titanic_Survival

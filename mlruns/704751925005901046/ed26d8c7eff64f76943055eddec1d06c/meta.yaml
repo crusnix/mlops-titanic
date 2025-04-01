@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/diar/mlops-titanic/mlruns/704751925005901046/ed26d8c7eff64f76943055eddec1d06c/artifacts
+end_time: 1743492698690
+entry_point_name: ''
+experiment_id: '704751925005901046'
+lifecycle_stage: active
+run_id: ed26d8c7eff64f76943055eddec1d06c
+run_name: Gender_Model
+run_uuid: ed26d8c7eff64f76943055eddec1d06c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743492697001
+status: 3
+tags: []
+user_id: diar

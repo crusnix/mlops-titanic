@@ -1,0 +1,21 @@
+artifact_path: gender_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 2.21.2
+model_size_bytes: 842
+model_uuid: b7e8fa6e7b3c4d2087313192e9ca1ef6
+prompts: null
+run_id: ed26d8c7eff64f76943055eddec1d06c
+utc_time_created: '2025-04-01 07:31:37.015380'
